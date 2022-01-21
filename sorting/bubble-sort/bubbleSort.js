@@ -20,4 +20,5 @@ function bubbleSort(array) {
 
 // Testing the algorithm...
 let arr = [7, 5, 3, 9, 1, 6, 8, 4, 2];
-console.log(arr, bubbleSort(arr));
+console.log(arr);
+console.log(bubbleSort(arr));
